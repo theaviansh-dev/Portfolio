@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Avinahs
+# 👋 Hi, I'm Avinash
 
 I'm a freelance web developer with a focus on building clean, responsive, and scalable web applications. I work across the full stack, combining modern front-end tools with robust back-end technologies to create solutions that are both user-friendly and performant.
 
