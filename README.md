@@ -26,7 +26,7 @@ Git • GitHub • VS Code • Postman • Figma • Azure • Vercel • Netlif
 - Improving DevOps workflow with CI/CD tools
 
 ## 📫 Let’s Connect
-- WebSite: [WebSite](https://avinash-v1.a0001.net)
+- WebSite: [avinash-v1.dev](https://avinash-v1.a0001.net)
 - LinkedIn: [linkedin.com](https://www.linkedin.com/in/avinash-sharma-861729371)
 - Email: [itsnow.avi@gmail.com](mailto:itsnow.avi@gmail.com)
 
